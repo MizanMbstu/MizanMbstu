@@ -1,5 +1,5 @@
-<!---! [MizanMbstu](Asset/MizanMbstu.png)
-Hit count -->
+[MizanMbstu](Asset/Mizan.png)
+
 
 
  
