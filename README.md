@@ -1,4 +1,4 @@
-[MizanMbstu](Asset/Mizan.png)
+![MizanMbstu](Asset/Mizan.png)
 
 
 
