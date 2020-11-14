@@ -16,7 +16,7 @@ I am an undergraduate student at [MBSTU](http://mbstu.ac.bd/) on *Statistics*
 
 
 - 🔭 I’m currently working on Data Analysis.
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning ML
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to draw and listen music.
 
