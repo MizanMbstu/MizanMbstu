@@ -42,6 +42,11 @@ I am an undergraduate student at [MBSTU](http://mbstu.ac.bd/) on *Statistics*
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MizanMbstu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MizanMbstu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [linkedin]:https://www.linkedin.com/in/mmr-tutul
 [instagram]:https://www.instagram.com/_mmr_tutul_/
 [facebook]:https://www.facebook.com/mmrtutul.3/
