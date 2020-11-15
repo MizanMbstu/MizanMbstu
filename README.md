@@ -44,7 +44,8 @@ I am an undergraduate student at [MBSTU](http://mbstu.ac.bd/) on *Statistics*
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MizanMbstu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MizanMbstu)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [linkedin]:https://www.linkedin.com/in/mmr-tutul
