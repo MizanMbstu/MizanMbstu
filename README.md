@@ -35,7 +35,7 @@ I am an undergraduate student at [MBSTU](http://mbstu.ac.bd/) on *Statistics*
 
  
 ## Github Overview
-<img align="left" alt="Md. Mizanoor Rahman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MizanMbstu&show_icons=true" /> 
+
 <img align="left" alt="Md. Mizanoor Rahman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MizanMbstu&show_icons=true" />   &nbsp;
 
 
