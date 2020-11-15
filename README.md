@@ -39,6 +39,8 @@ I am an undergraduate student at [MBSTU](http://mbstu.ac.bd/) on *Statistics*
 <img align="left" alt="Md. Mizanoor Rahman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MizanMbstu&show_icons=true" />   &nbsp;
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MizanMbstu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 [linkedin]:https://www.linkedin.com/in/mmr-tutul
 [instagram]:https://www.instagram.com/_mmr_tutul_/
